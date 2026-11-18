@@ -5,3 +5,4 @@ run tests whit : python -m pytest -q
 feature promo branch
 contact:shop@example.com
 to test run : python -m pytest -q
+run tests whit : python -m pytest -q
